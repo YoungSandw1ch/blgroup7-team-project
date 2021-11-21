@@ -3,7 +3,7 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://github.com/YoungSandw1ch/blgroup7-team-project",
+  "homepage": "https://YoungSandw1ch.github.io/blgroup7-team-project",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /blgroup7-team-project/"

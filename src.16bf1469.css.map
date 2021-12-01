@@ -1,0 +1,1 @@
+{"version":3,"sources":["sass/components/_site-header.scss"],"names":[],"mappings":"AAAA,aACE","file":"src.16bf1469.css","sourceRoot":"../src","sourcesContent":[".site-header {\n  font-size: 20px;\n}"]}

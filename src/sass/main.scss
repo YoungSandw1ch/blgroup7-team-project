@@ -3,5 +3,37 @@
  * Все паршалы подключаются сюда.
  */
 
-// Стили для файла с примером HTML-фрагмента
-@import './example';
+// utils
+@import './utils/variables';
+@import './utils/nullstyle';
+@import './utils/common-styles';
+@import './utils/mixins';
+// header
+@import './common/container';
+@import './components/site-header';
+@import './common/logo';
+@import './common/socials';
+@import './common/hours';
+@import './common/number';
+// hero
+@import './components/hero';
+@import './common/menu';
+@import './common/buttons';
+// sections
+@import './components/triggers';
+@import './common/trigger-items';
+@import './components/request';
+@import './components/prices';
+@import './components/breakdowns';
+@import './components/call';
+@import './common/advisory';
+@import './components/guarantee';
+@import './components/reviews';
+@import './common/comment-box';
+@import './components/underfooter';
+@import './components/site-footer';
+
+
+
+
+
